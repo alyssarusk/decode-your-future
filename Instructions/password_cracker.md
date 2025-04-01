@@ -1,7 +1,7 @@
 # Password Cracker Activity
 *Full Hour++ Lesson Plan can be found here for reference: [Password Cracker Lesson Plan](https://docs.google.com/document/d/1HAWjv2axYfAadN1Ue5201FzdvFxN5G3nJmjiY27EH5o/edit?tab=t.0#heading=h.qbyo3qi0b6m2).*
 
-A digital copy of the activty handout can be found here: [Password Cracker Handout](https://github.com/alyssarusk/decode-your-future/Handouts/PasswordCrackerHandout.pdf).
+A digital copy of the activty handout can be found here: [Password Cracker Handout](https://github.com/alyssarusk/decode-your-future/blob/main/Handouts/PasswordCrackerHandout.pdf).
 
 1. Visual studio code should be open with the password cracker project
     - Ensure font size on VS Code is set to 14 pt font or something sufficiently easy to see 
